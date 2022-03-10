@@ -1,0 +1,5 @@
+- Create a repo (done)
+- Add file to repo (done)
+- Check out git history (history)
+- Make a change on GitHub
+- Pull from GitHub
